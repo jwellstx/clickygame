@@ -1,1 +1,0 @@
-{"version":3,"sources":["Card.css"],"names":[],"mappings":"AAAA,WACI,qBAAuB,CACvB,mCAAoC,CACpC,iBACJ,CAEA,iBACI,oBACJ","file":"main.8dfcccaa.chunk.css","sourcesContent":[".charStyle {\r\n    background-color: black;\r\n    box-shadow: 10px 10px 10px 10px grey;\r\n    border-radius: 5px;\r\n}\r\n\r\n.charStyle:hover {\r\n    transform: scale(1.1)\r\n}"]}
