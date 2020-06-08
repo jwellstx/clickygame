@@ -8,7 +8,7 @@ class Card extends Component {
         return (  
             <>
             {/* <h3> {this.props.char.name} </h3>  */}
-            <img onClick={this.props.clicked} className="m-4 charStyle" src={this.props.char.image} ></img>
+            <img onClick={this.props.clicked} className="m-4 charStyle" src={this.props.char.image} alt={this.props.char.name}></img>
             </>
         );
     }
