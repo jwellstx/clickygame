@@ -3,17 +3,16 @@ nav {
 }
 
 .navbar {
-    font-size: 5vh;
-    word-wrap: break-word;
+    font-size: 2vw;
 }
 
 .text {
-    width: 30%;
-    color: black;
+    width: 33.3%;
+    color: white;
     text-align: center;
 }
 
 .refresh:hover {
-    color: black;
+    color: yellow;
     transform: scale(1.05);;
 }

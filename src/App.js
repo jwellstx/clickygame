@@ -5,6 +5,7 @@ import JumboTron from "./components/JumboTron/JumboTron";
 import Container from "./components/Container/Container";
 import Row from "./components/Row/Row";
 import Card from "./components/Card/Card";
+import Footer from "./components/Footer/Footer";
 import characters from "./characters.json";
 
 
@@ -33,14 +34,17 @@ class App extends Component {
       });
     }
     else {
+      let checkIfWon = (this.state.score +1 === 12) ? true : false
+      let theMessage = checkIfWon ? "Congrats, you won!" : "You guessed correctly!";
+      let theScore = checkIfWon ? 0 : this.state.score + 1
+      let theStatus = checkIfWon ? [] : [...this.state.clickedStatus, charName]
       this.setState({
-        clickedStatus: [...this.state.clickedStatus, charName],
-        message: "You guessed correctly!",
-        score: this.state.score + 1,
+        clickedStatus: theStatus,
+        message: theMessage,
+        score: theScore,
         topscore: (this.state.topscore <= this.state.score) ? this.state.score + 1 : this.state.topscore
       });
     }
-
     this.setState({ characters: this.state.characters.sort(() => {return .5 - Math.random()}) });
   }
 
@@ -54,6 +58,8 @@ class App extends Component {
             {this.state.characters}
         </Row>
       </Container>
+      <br></br>
+      <Footer />
       </>
     );
   }

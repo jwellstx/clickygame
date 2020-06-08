@@ -9,7 +9,7 @@ class Card extends Component {
     render() { 
         return (  
             <>
-            <img onClick={this.checkState} className="m-4 charStyle" src={this.props.char.image} alt={this.props.char.name}></img>
+                <img onClick={this.checkState} className="m-4 charStyle" src={this.props.char.image} alt={this.props.char.name}></img>
             </>
         );
     }
