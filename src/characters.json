@@ -2,62 +2,62 @@
   {
     "id": 1,
     "name": "Moira",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/a/a2/Moira_portrait0.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/747/window-height/747?cb=20181108054744"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/a/a2/Moira_portrait0.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/747/window-height/747?cb=20181108054744"
   },
   {
     "id": 2,
     "name": "Genji",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/4/45/256px-Genji-ow2-portrait.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/256/window-height/256?cb=20191115221708"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/4/45/256px-Genji-ow2-portrait.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/256/window-height/256?cb=20191115221708"
   },
   {
     "id": 3,
     "name": "Brigitte",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/7/7b/Brigitte_portrait.png/revision/latest/window-crop/width/200/x-offset/152/y-offset/0/window-width/450/window-height/449?cb=20190114232133"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/7/7b/Brigitte_portrait.png/revision/latest/window-crop/width/200/x-offset/152/y-offset/0/window-width/450/window-height/449?cb=20190114232133"
   },
   {
     "id": 4,
     "name": "Mercy",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/0/0f/Mercy-ow2-portrait.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/641/window-height/641?cb=20191120133428"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/0/0f/Mercy-ow2-portrait.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/641/window-height/641?cb=20191120133428"
   },
   {
     "id": 5,
     "name": "Sombra",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/f/fc/Sombra_portrait.png/revision/latest/window-crop/width/200/x-offset/45/y-offset/0/window-width/432/window-height/431?cb=20170105140023"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/f/fc/Sombra_portrait.png/revision/latest/window-crop/width/200/x-offset/45/y-offset/0/window-width/432/window-height/431?cb=20170105140023"
   },
   {
     "id": 6,
     "name": "Zarya",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/d/d1/Zarya_portrait.png/revision/latest/window-crop/width/200/x-offset/38/y-offset/0/window-width/653/window-height/652?cb=20160429041121"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/d/d1/Zarya_portrait.png/revision/latest/window-crop/width/200/x-offset/38/y-offset/0/window-width/653/window-height/652?cb=20160429041121"
   },
   {
     "id": 7,
     "name": "Reinhardt",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/3/3b/Reinhardt-ow2-portrait.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/1081/window-height/1081?cb=20191120134635"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/3/3b/Reinhardt-ow2-portrait.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/1081/window-height/1081?cb=20191120134635"
   },
   {
     "id": 8,
     "name": "Doomfist",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/0/0e/Doomfist_portrait.png/revision/latest/window-crop/width/200/x-offset/130/y-offset/0/window-width/442/window-height/441?cb=20170807035611"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/0/0e/Doomfist_portrait.png/revision/latest/window-crop/width/200/x-offset/130/y-offset/0/window-width/442/window-height/441?cb=20170807035611"
   },
   {
     "id": 9,
     "name": "Lucio",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/e/e0/Lucioplate.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/809/window-height/809?cb=20161106124823"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/e/e0/Lucioplate.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/809/window-height/809?cb=20161106124823"
   },
   {
     "id": 10,
     "name": "Mei",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/d/da/Mei-ow2-portrait.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/710/window-height/710?cb=20191120134408"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/d/da/Mei-ow2-portrait.png/revision/latest/window-crop/width/200/x-offset/0/y-offset/0/window-width/710/window-height/710?cb=20191120134408"
   },
   {
     "id": 11,
     "name": "Pharah",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/f/fe/Pharah_portrait.png/revision/latest/window-crop/width/200/x-offset/29/y-offset/0/window-width/671/window-height/670?cb=20160429041650"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/f/fe/Pharah_portrait.png/revision/latest/window-crop/width/200/x-offset/29/y-offset/0/window-width/671/window-height/670?cb=20160429041650"
   },
   {
     "id": 12,
     "name": "Hammond",
-    "image": "https://vignette.wikia.nocookie.net/overwatch/images/8/83/WreckingBall_portrait.png/revision/latest/window-crop/width/200/x-offset/221/y-offset/0/window-width/450/window-height/449?cb=20190114232714"
+    "image": "http://vignette.wikia.nocookie.net/overwatch/images/8/83/WreckingBall_portrait.png/revision/latest/window-crop/width/200/x-offset/221/y-offset/0/window-width/450/window-height/449?cb=20190114232714"
   }
 
 ]
